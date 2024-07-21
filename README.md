@@ -2,7 +2,7 @@
 
 - 📊 Estudante de Ciência de Dados.
 - 👨‍💻 Estudando Python
-- 👯 Tenho 23 anos.
+- ❤  Tenho 23 anos.
 - 📫 Contate-me: micheleloy1308@outlook.com
 
 <div style="display: inline_block"><br>
