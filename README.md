@@ -1,8 +1,7 @@
 ## Olá!! Meu nome é Michele Loy :)
 
 - 📊 Estudante de Ciência de Dados.
-- 👨‍💻 Estudando Python
-- ❤  Tenho 24 anos.
+- 👨‍💻 Estudando Python, SQL e Java
 - 📫 Contate-me: micheleloy1308@outlook.com
 
 <div style="display: inline_block"><br>
